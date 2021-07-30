@@ -1,3 +1,6 @@
+
+.DS_Store
 chapter3/tango_with_django_project/rango/__pycache__/__init__.cpython-38.pyc
 *.pyc
 chapter5/templates/rango/.hidden
+chapter6/templates/rango/.hidden
